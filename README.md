@@ -1,6 +1,6 @@
 # LinkedHashListSet<E>
 
-An implementation of {@link List} and {@link Set}, based on {@link LinkedHashListSet}
+An implementation of List and Set, based on LinkedHashListSet
 
 ## License
 
