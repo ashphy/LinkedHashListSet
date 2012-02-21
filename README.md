@@ -1,6 +1,6 @@
 # LinkedHashListSet<E>
 
-An implementation of List and Set, based on LinkedHashListSet
+An implementation of List and Set, based on java.util.LinkedHashSet<E>
 
 ## License
 

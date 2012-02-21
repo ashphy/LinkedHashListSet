@@ -33,7 +33,7 @@ import java.util.ListIterator;
 import java.util.Set;
 
 /**
- * This collection is implemented {@link List} and {@link Set}, based on {@link LinkedHashListSet}
+ * This collection is implemented {@link List} and {@link Set}, based on {@link LinkedHashSet}
  * 
  * @author Kazuki Hamasaki <ne.vivam.si.abis@gmail.com>
  */
